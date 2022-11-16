@@ -35,7 +35,7 @@ public class Human{
             }
 
             public void setWaldo(){
-                System.out.println("Setting Waldo...: " + name +"; index:"+ index);
+                System.out.println("Setting Waldo...: " + name +"; index: "+ index);
                 this.name = "Waldo";
             }
 
